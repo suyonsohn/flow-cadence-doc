@@ -10,7 +10,7 @@
 
 
 
-### Check if flow's installed properly
+### Check if Flow's been installed properly
 `flow version`
 
 
