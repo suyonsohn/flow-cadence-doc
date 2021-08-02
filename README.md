@@ -25,4 +25,4 @@
 `var isGood: Bool = false`
 
 
-### [Integers] (https://docs.onflow.org/cadence/language/values-and-types/#integers)
+### [Integers](https://docs.onflow.org/cadence/language/values-and-types/#integers)
