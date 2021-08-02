@@ -33,17 +33,16 @@
 
 
 // Declare a function named `double`, which multiples a number by two.
-//
+
+
 // The special argument label _ is specified for the parameter,
+
+
 // so no argument label has to be provided in a function call.
-//
+
+
+```
 fun double(_ x: Int): Int {
     return x * 2
 }
-
-// Call the function named `double` with the value 4 for the first parameter.
-//
-// The argument label can be omitted in the function call as the declaration
-// specifies the special argument label _ for the parameter.
-//
-double(2)  // is `4`
+```
