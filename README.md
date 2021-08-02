@@ -32,13 +32,13 @@
 
 
 
-// Declare a function named `double`, which multiples a number by two.
+Declare a function named `double`, which multiples a number by two.
 
 
-// The special argument label _ is specified for the parameter,
+The special argument label _ is specified for the parameter,
 
 
-// so no argument label has to be provided in a function call.
+so no argument label has to be provided in a function call.
 
 
 ```
